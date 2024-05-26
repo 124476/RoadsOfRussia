@@ -13,7 +13,6 @@
             <TextBlock Text="You it see..." FontSize="27" TextWrapping="Wrap" TextAlignment="Center"></TextBlock>
             <TextBlock Text="Stop see others projects and start doing yourself..." FontSize="27" TextWrapping="Wrap" TextAlignment="Center"></TextBlock>
             <TextBlock Text="It is boring..." FontSize="27" TextWrapping="Wrap" TextAlignment="Center"></TextBlock>
-            <TextBlock Text="The strongest will win..." FontSize="27" TextWrapping="Wrap" TextAlignment="Center"></TextBlock>
         </StackPanel>
     </Grid>
 </Window>
